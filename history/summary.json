@@ -4,18 +4,20 @@
     "url": "https://a7.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/a7.com.au.ico",
     "slug": "a7",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 4186,
     "timeDay": 4186,
     "timeWeek": 4186,
     "timeMonth": 4186,
     "timeYear": 4186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-10": 1
+    }
   },
   {
     "name": "adelaidewebsitedesign.com.au",
