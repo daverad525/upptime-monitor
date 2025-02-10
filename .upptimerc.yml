@@ -3,10 +3,53 @@ owner: daverad525 # Your GitHub organization or username, where this repository 
 repo: upptime-monitor # The name of this repository
 
 sites:
- - name: A7
+- name: A7
     url: https://a7.com.au
-  - name: a7 virtual reality tours
+- name: a7 virtual reality tours
     url: http://a7virtualrealitytours.com.au/
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+- name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+      - name: Wikipedia
+    url: https://en.wikipedia.org
+    
   - name: Google AU
     url: https://www.google.com.au
   - name: Wikipedia
@@ -28,7 +71,7 @@ status-website:
   baseUrl: /upptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub. A7"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
