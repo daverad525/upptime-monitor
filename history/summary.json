@@ -4,19 +4,19 @@
     "url": "https://a7.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/a7.com.au.ico",
     "slug": "a7",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 4186,
-    "timeDay": 4186,
-    "timeWeek": 4186,
-    "timeMonth": 4186,
-    "timeYear": 4186,
+    "status": "up",
+    "uptime": "92.03%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "92.03%",
+    "uptimeMonth": "92.03%",
+    "uptimeYear": "92.03%",
+    "time": 4303,
+    "timeDay": 4303,
+    "timeWeek": 4303,
+    "timeMonth": 4303,
+    "timeYear": 4303,
     "dailyMinutesDown": {
-      "2025-02-10": 1
+      "2025-02-10": 18
     }
   },
   {
