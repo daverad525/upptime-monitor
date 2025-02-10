@@ -5,6 +5,8 @@ repo: upptime-monitor # The name of this repository
 sites:
   - name: A7
     url: https://a7.com.au
+  - name: adelaidewebsitedesign.com.au
+    url: https://adelaidewebsitedesign.com.au	
   - name: a7 virtual reality tours
     url: https://a7virtualrealitytours.com.au/
   - name: abcfriendssa.net.au
@@ -27,28 +29,58 @@ sites:
     url: https://blmcarchitectural.com.au/
   - name: craigburnwines.com.au
     url: https://craigburnwines.com.au/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org   
+  - name: cunninghamandharvey.com.au
+    url: https://cunninghamandharvey.com.au/
+  - name: emailletterhead.com
+    url: https://emailletterhead.com/
+  - name: executiveflowers.com.au
+    url: https://executiveflowers.com.au/
+  - name: families4families.org.au
+    url: https://families4families.org.au/
+  - name: hancockandjust.com.au
+    url: https://hancockandjust.com.au/
+  - name: equiheal.com.au
+    url: https://equiheal.com.au/
+  - name: hrmmatters.com.au
+    url: https://hrmmatters.com.au/
+  - name: lisadallarosa.com.au
+    url: https://lisadallarosa.com.au/
+  - name: mondaymorningmile.com
+    url: https://mondaymorningmile.com/
+  - name: myoenergy.com.au
+    url: https://myoenergy.com.au/
+  - name: neatspirits.com.au
+    url: https://neatspirits.com.au/
+  - name: noarlungacc.org.au
+    url: https://noarlungacc.org.au/
+  - name: permusoft.com.au
+    url: https://permusoft.com.au/
+  - name: plantscape.com.au
+    url: https://plantscape.com.au/
+  - name: redgumandmore.com.au
+    url: https://redgumandmore.com.au/
+  - name: roofingcentral.com.au
+    url: https://roofingcentral.com.au/
+  - name: securestart.com.au
+    url: https://securestart.com.au/
+  - name: strategon.com.au
+    url: https://strategon.com.au/
+  - name: sturtstumpcutters.com.au
+    url: https://sturtstumpcutters.com.au/
+  - name: thechiropracticdomain.com.au
+    url: https://thechiropracticdomain.com.au/
+  - name: thehillsarborists.com.au
+    url: https://thehillsarborists.com.au/
+  - name: generaltools.com.au
+    url: https://generaltools.com.au/
+  - name: bakeandbrew.com.au
+    url: https://bakeandbrew.com.au
+  - name: floorsafe.com.au
+    url: https://floorsafe.com.au
+  - name: glaciemcooling.com
+    url: https://glaciemcooling.com
+  - name: voiceoversonthenet.net
+    url: https://voiceoversonthenet.net
   - name: Google AU
     url: https://www.google.com.au
   - name: Wikipedia
