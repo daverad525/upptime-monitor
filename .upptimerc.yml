@@ -5,8 +5,8 @@ repo: upptime-monitor # The name of this repository
 sites:
  - name: A7
     url: https://a7.com.au
-  - name: Google AU
-    url: https://www.google.com.au
+  - name: a7 virtual reality tours
+    url: http://a7virtualrealitytours.com.au/
   - name: Google AU
     url: https://www.google.com.au
   - name: Wikipedia
