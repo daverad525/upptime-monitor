@@ -37,6 +37,10 @@ sites:
     url: https://executiveflowers.com.au/
   - name: families4families.org.au
     url: https://families4families.org.au/
+  - name: floorsafe.com.au
+    url: https://floorsafe.com.au
+  - name: glaciemcooling.com
+    url: https://glaciemcooling.com
   - name: hancockandjust.com.au
     url: https://hancockandjust.com.au/
   - name: equiheal.com.au
@@ -73,18 +77,12 @@ sites:
     url: https://generaltools.com.au/
   - name: bakeandbrew.com.au
     url: https://bakeandbrew.com.au
-  - name: floorsafe.com.au
-    url: https://floorsafe.com.au
-  - name: glaciemcooling.com
-    url: https://glaciemcooling.com
   - name: voiceoversonthenet.net
     url: https://voiceoversonthenet.net
   - name: Google AU
     url: https://www.google.com.au
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
