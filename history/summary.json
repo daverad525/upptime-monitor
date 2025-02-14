@@ -4,9 +4,9 @@
     "url": "https://a7.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/a7.com.au.ico",
     "slug": "a7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.86%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.39%",
@@ -16,6 +16,7 @@
     "timeMonth": 4477,
     "timeYear": 4477,
     "dailyMinutesDown": {
+      "2025-02-14": 2,
       "2025-02-12": 16,
       "2025-02-10": 18
     }
@@ -331,18 +332,20 @@
     "url": "https://glaciemcooling.com",
     "icon": "https://icons.duckduckgo.com/ip3/glaciemcooling.com.ico",
     "slug": "glaciemcooling-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 4934,
     "timeDay": 7231,
     "timeWeek": 4934,
     "timeMonth": 4934,
     "timeYear": 4934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-14": 1
+    }
   },
   {
     "name": "hancockandjust.com.au",
@@ -638,11 +641,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/generaltools.com.au.ico",
     "slug": "generaltools-com-au",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 2403,
     "timeDay": 2266,
     "timeWeek": 2403,
@@ -658,11 +661,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bakeandbrew.com.au.ico",
     "slug": "bakeandbrew-com-au",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 3917,
     "timeDay": 4515,
     "timeWeek": 3917,
@@ -677,9 +680,9 @@
     "url": "https://voiceoversonthenet.net",
     "icon": "https://icons.duckduckgo.com/ip3/voiceoversonthenet.net.ico",
     "slug": "voiceoversonthenet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -688,7 +691,9 @@
     "timeWeek": 1109,
     "timeMonth": 1109,
     "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-14": 0
+    }
   },
   {
     "name": "Google AU",
