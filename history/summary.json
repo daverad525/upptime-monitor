@@ -4,9 +4,9 @@
     "url": "https://a7.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/a7.com.au.ico",
     "slug": "a7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "98.52%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
@@ -16,7 +16,7 @@
     "timeMonth": 4227,
     "timeYear": 4227,
     "dailyMinutesDown": {
-      "2025-02-16": 19,
+      "2025-02-16": 21,
       "2025-02-12": 16,
       "2025-02-10": 18
     }
@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/a7virtualrealitytours.com.au.ico",
     "slug": "a7-virtual-reality-tours",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3859,
     "timeDay": 4358,
     "timeWeek": 3859,
     "timeMonth": 3859,
     "timeYear": 3859,
-    "dailyMinutesDown": {
-      "2025-02-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "abcfriendssa.net.au",
@@ -65,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/abcfriendssa.net.au.ico",
     "slug": "abcfriendssa-net-au",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2019,
     "timeDay": 2148,
     "timeWeek": 2019,
     "timeMonth": 2019,
     "timeYear": 2019,
-    "dailyMinutesDown": {
-      "2025-02-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "allclassequipmenttraining.com",
@@ -85,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/allclassequipmenttraining.com.ico",
     "slug": "allclassequipmenttraining-com",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 733,
     "timeDay": 829,
     "timeWeek": 733,
     "timeMonth": 733,
     "timeYear": 733,
-    "dailyMinutesDown": {
-      "2025-02-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "advancesheetmetal.com.au",
@@ -105,19 +99,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/advancesheetmetal.com.au.ico",
     "slug": "advancesheetmetal-com-au",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1213,
     "timeDay": 1363,
     "timeWeek": 1213,
     "timeMonth": 1213,
     "timeYear": 1213,
-    "dailyMinutesDown": {
-      "2025-02-16": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "barossafunerals.com.au",
@@ -125,19 +117,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/barossafunerals.com.au.ico",
     "slug": "barossafunerals-com-au",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1558,
     "timeDay": 1295,
     "timeWeek": 1558,
     "timeMonth": 1558,
     "timeYear": 1558,
-    "dailyMinutesDown": {
-      "2025-02-16": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "beyond-kathleenstacey.com.au",
@@ -145,19 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyond-kathleenstacey.com.au.ico",
     "slug": "beyond-kathleenstacey-com-au",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3312,
     "timeDay": 3929,
     "timeWeek": 3312,
     "timeMonth": 3312,
     "timeYear": 3312,
-    "dailyMinutesDown": {
-      "2025-02-16": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bikeboxes.com.au",
@@ -165,19 +153,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bikeboxes.com.au.ico",
     "slug": "bikeboxes-com-au",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3038,
     "timeDay": 3944,
     "timeWeek": 3038,
     "timeMonth": 3038,
     "timeYear": 3038,
-    "dailyMinutesDown": {
-      "2025-02-16": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blackwoodbusinessdirectory.com.au",
@@ -185,19 +171,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackwoodbusinessdirectory.com.au.ico",
     "slug": "blackwoodbusinessdirectory-com-au",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1128,
     "timeDay": 1448,
     "timeWeek": 1128,
     "timeMonth": 1128,
     "timeYear": 1128,
-    "dailyMinutesDown": {
-      "2025-02-16": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blackwoodtreeservice.com.au",
@@ -348,19 +332,19 @@
     "url": "https://glaciemcooling.com",
     "icon": "https://icons.duckduckgo.com/ip3/glaciemcooling.com.ico",
     "slug": "glaciemcooling-com",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 4908,
     "timeDay": 3739,
     "timeWeek": 4908,
     "timeMonth": 4908,
     "timeYear": 4908,
     "dailyMinutesDown": {
-      "2025-02-16": 19
+      "2025-02-16": 20
     }
   },
   {
@@ -696,9 +680,9 @@
     "url": "https://voiceoversonthenet.net",
     "icon": "https://icons.duckduckgo.com/ip3/voiceoversonthenet.net.ico",
     "slug": "voiceoversonthenet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -707,7 +691,9 @@
     "timeWeek": 1141,
     "timeMonth": 1141,
     "timeYear": 1141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-16": 0
+    }
   },
   {
     "name": "Google AU",
