@@ -333,18 +333,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/glaciemcooling.com.ico",
     "slug": "glaciemcooling-com",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.81%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 4910,
     "timeDay": 4679,
     "timeWeek": 4910,
     "timeMonth": 4910,
     "timeYear": 4910,
     "dailyMinutesDown": {
-      "2025-02-16": 25
+      "2025-02-16": 19
     }
   },
   {
